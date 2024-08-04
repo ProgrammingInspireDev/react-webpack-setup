@@ -15,7 +15,7 @@ Make sure you have Node.js and npm installed on your machine. You can download a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-webpack-setup.git
+   git clone https://github.com/ProgrammingInspireDev/react-webpack-setup.git
 
 
 2. **Navigate to the project directory:**
